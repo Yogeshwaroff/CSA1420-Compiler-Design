@@ -1,0 +1,12 @@
+
+1:#include<stdio.h>
+
+2:Int main{
+
+3:Int a=5,b=7;
+
+4:Printf(%d,a+b);
+
+5:Return 0;
+
+6:}

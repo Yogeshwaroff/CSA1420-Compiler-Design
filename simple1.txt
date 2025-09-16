@@ -1,0 +1,6 @@
+#include<stdio.h>
+Int main{
+Int a=5,b=7;
+Printf(%d,a+b);
+Return 0;
+}
